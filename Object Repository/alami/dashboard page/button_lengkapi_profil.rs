@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_lengkapi_profil</name>
+   <tag></tag>
+   <elementGuidId>4d8d767f-fc1d-45e0-8561-b7bc94daa2fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='gotoCTA(this)']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.btn-cta-yellow</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Lengkapi Profil Sekarang' or . = 'Lengkapi Profil Sekarang')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(text() = 'Lengkapi Profil Sekarang' or . = 'Lengkapi Profil Sekarang')]</value>
+      <webElementGuid>2bdff0dd-7dac-41dd-9d1e-cb449ec74c22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='gotoCTA(this)']</value>
+      <webElementGuid>db581357-2edd-48b5-89c6-e9871ac6ffbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalLengkapiProfil']/div/div/div[2]/button</value>
+      <webElementGuid>5fc508f0-a2fa-4675-bf03-e09e1dda2665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lengkapi Profilmu Untuk Aktivasi Akun dan RDF (Rekening Dana Funder)'])[1]/following::button[1]</value>
+      <webElementGuid>9c803aff-909a-4984-a55d-68d63e885c50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='homepage'])[1]/following::button[1]</value>
+      <webElementGuid>79903acc-2166-44b9-8174-95ca35d2be6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lengkapi Profil Sekarang']/parent::*</value>
+      <webElementGuid>37f0a8b2-74d9-4c4d-b7da-62ddb82f1212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>9f878c11-4641-4b65-9367-48337ff38b28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Lengkapi Profil Sekarang' or . = 'Lengkapi Profil Sekarang')]</value>
+      <webElementGuid>44e9e223-c9aa-47a3-946f-3240fd2f5efb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

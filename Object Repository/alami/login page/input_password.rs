@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_password</name>
+   <tag></tag>
+   <elementGuidId>679a0b51-c89b-4d12-b625-dca9d03a3436</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='showPassword']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#showPassword</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'password' and @id = 'showPassword']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'password' and @id = 'showPassword']</value>
+      <webElementGuid>7ad3067d-ed55-496e-ba45-5f68d1003549</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='showPassword']</value>
+      <webElementGuid>0ad9fca8-6b85-4628-bc16-e788f9924c92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>afe710c5-44d7-4d94-b65b-03f52db734e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password' and @name = 'password' and @placeholder = 'Kata Sandi' and @id = 'showPassword']</value>
+      <webElementGuid>7300fa84-3f4f-4e0e-92e9-f87bcb195309</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

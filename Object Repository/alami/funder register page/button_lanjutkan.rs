@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_lanjutkan</name>
+   <tag></tag>
+   <elementGuidId>0535f8f5-1947-42d1-be65-4d65e35396b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='daftarAlami']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#daftarAlami</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'daftarAlami']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'daftarAlami']</value>
+      <webElementGuid>5821b146-619e-4b1f-9a27-d96d5ae8d208</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='daftarAlami']</value>
+      <webElementGuid>c6320ad8-5f09-4852-a62c-a36762b3d6a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='registerFunderForm']/button</value>
+      <webElementGuid>e30c4b6e-b14a-4a7b-bf29-9e990f0d015c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bagaimana Kamu tahu ALAMI? (Opsional)'])[1]/following::button[1]</value>
+      <webElementGuid>86e2cc51-0b0a-4874-8b79-5b8fed648595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Referral (Opsional)'])[1]/following::button[1]</value>
+      <webElementGuid>ee3aa5de-4b5d-4fc9-89ef-1be6b7775e87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar disini'])[1]/preceding::button[1]</value>
+      <webElementGuid>e2f6cc88-7a36-47dc-b465-0c71664e1910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='masuk'])[1]/preceding::button[1]</value>
+      <webElementGuid>3486bc87-bbb1-4e41-8187-456207f25996</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lanjutkan']/parent::*</value>
+      <webElementGuid>8c0905f0-724e-41f3-b5d1-4384433c67d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>6d94c07f-81d0-472a-bf87-db67a714145a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @id = 'daftarAlami' and (text() = 'Lanjutkan ' or . = 'Lanjutkan ')]</value>
+      <webElementGuid>b86f60ce-9409-40e5-84a5-8fc7b2af2c16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

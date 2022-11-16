@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_full_name</name>
+   <tag></tag>
+   <elementGuidId>d81b7e2c-a291-402d-92ba-bb343fd5d407</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='registerNamaFunder']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#registerNamaFunder</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'registerNamaFunder']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'registerNamaFunder']</value>
+      <webElementGuid>f819f856-cf2f-42ad-b7ea-0f15eb6f2803</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='registerNamaFunder']</value>
+      <webElementGuid>85326758-740b-45f7-bf53-020ad4209006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='registerFunderForm']/div/input</value>
+      <webElementGuid>4357250c-ae2b-4ca8-887c-543e0e0d03cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>00011fd2-c220-4420-afbd-f1ede524c86e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'registerNamaFunder' and @name = 'name' and @placeholder = 'Nama Lengkap Sesuai e-KTP']</value>
+      <webElementGuid>1a1b0160-80bc-4cb3-ac3b-7b5f05aa58fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

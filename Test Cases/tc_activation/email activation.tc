@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>email activation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d5183a3-21a4-4cc6-8a91-fbb82a3215fd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>373d23c2-6f3a-4dfc-86b6-c3281ade82fb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://u23291266.ct.sendgrid.net/ls/click?upn=gZdSL1niv8Dq-2F1Zk-2BnPKp5HXvn6NpRlXWDbe2scPYSQyE1PCFRgECNSvL-2F4ht5BMtOuTfAkbJKdff-2B8u1tk8YOV4lDgq5ncaKXeYb3SJav1iUbvWxV6Re2A3vWR9ELv1Ir-2BuqK53HwaF9mQ5ZPqDPI-2BQziaYerzmKdx-2Be07qjPiUrnUkt0JLRU5b-2BcvuBssi-2FjNWZcdfURKFk2qwVoAI8g-3D-3DKZIb_3f-2F3YJnqunJru39m97yqsKLMrPOqSSqZFUWG4INIC3dSmWmyGU1372ofKCWloU8wQMPtFV0VLGJW-2Fzrgh9uWKbR-2Fz7unocIHgoUbHRmyjRFBPOJ-2BNe7LYDxC1rPEQX77NzSWNo1wOwzHfzDPSy65SHcQNJQT3te3H2hxDEvEkok7mKw5tOmyAmvKsZToQJOfWkHJY6fCfRUz9JtnrPEiWwO8-2FnC-2BbsJl0J1GMV-2FmgIyNYKqzZtjQ-2FQyJhdtOc3sA8OKxKKsERZfVH10N16-2F2SouhJFIn6P3Qrw3-2B9RJdcKNU31SIq-2FNylk9gnQf2ajGYGelVkxlRyiUCOrgTPMOQX64mKNF18oR2r-2FBuGQtz2SM-3D'</defaultValue>
+      <description></description>
+      <id>373d23c2-6f3a-4dfc-86b6-c3281ade82fb</id>
+      <masked>false</masked>
+      <name>activationUrl</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_password</name>
+   <tag></tag>
+   <elementGuidId>9bda3ac6-6c61-46e8-a549-58f376e5d796</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='showPassword']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#showPassword</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'showPassword']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'showPassword']</value>
+      <webElementGuid>d8a9b873-2078-4b05-8c12-096819da2e47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='showPassword']</value>
+      <webElementGuid>61695164-1368-4d31-8d2f-0f3a0fc284d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='registerFunderForm']/div[4]/div/input</value>
+      <webElementGuid>377da038-2972-43fd-9654-810863a89f84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/input</value>
+      <webElementGuid>a24aa0f4-2f40-4936-9572-343c85d262ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password' and @placeholder = 'Kata Sandi' and @id = 'showPassword' and @name = 'password']</value>
+      <webElementGuid>9362e772-b52d-4eea-8193-c65da0d7f56e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

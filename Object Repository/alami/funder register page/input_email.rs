@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_email</name>
+   <tag></tag>
+   <elementGuidId>e6bd46eb-8aa7-48cd-b9eb-e738a28209fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='registerEmailFunder']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#registerEmailFunder</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'registerEmailFunder']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'registerEmailFunder']</value>
+      <webElementGuid>16efa86d-0d03-4271-bc8d-f2b583c3baae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='registerEmailFunder']</value>
+      <webElementGuid>8c9696ae-856f-47e0-8727-c47276b398d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='registerFunderForm']/div[2]/input</value>
+      <webElementGuid>9e477f5f-18d2-4c82-8880-1580c1388ed0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>b9c9bff0-9bf6-4a45-9095-c9e8a99fcf35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'registerEmailFunder' and @name = 'email' and @placeholder = 'Email']</value>
+      <webElementGuid>9753575e-8dd8-47c2-9447-3e2d58373a3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

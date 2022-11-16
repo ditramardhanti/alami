@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_phone_number</name>
+   <tag></tag>
+   <elementGuidId>480b40aa-829e-4ca2-a234-9a8522580841</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='LenderPhone']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#LenderPhone</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'LenderPhone']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'LenderPhone']</value>
+      <webElementGuid>9514eac1-a1e8-42ee-ac11-39838fb6b4cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='LenderPhone']</value>
+      <webElementGuid>dd4e4682-0069-4663-8041-7d64b236f2ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='registerFunderForm']/div[3]/input</value>
+      <webElementGuid>17654af2-93b3-4f2f-ad64-a36367b2428e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+      <webElementGuid>05f6aa52-3797-4f7e-8878-c372804016d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'LenderPhone' and @name = 'phone' and @placeholder = 'Nomor Handphone']</value>
+      <webElementGuid>dbe5bc4d-183e-4a8d-8849-b6a9103a4780</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

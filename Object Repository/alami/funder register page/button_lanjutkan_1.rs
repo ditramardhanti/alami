@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_lanjutkan_1</name>
+   <tag></tag>
+   <elementGuidId>2eda4847-4c3d-4bfa-9571-90358dee6eea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='submitRegister2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#submitRegister2</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'submitRegister2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'submitRegister2']</value>
+      <webElementGuid>1bd5b184-ea68-4d76-b641-8d58fd1c4eb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='submitRegister2']</value>
+      <webElementGuid>56d62efb-549e-4b1b-a3eb-d099eddb0ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='registerFunderForm']/div[2]/button</value>
+      <webElementGuid>7982e00b-dc88-4b60-aa18-ff4644fc16b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ketentuan Pengguna.'])[1]/following::button[1]</value>
+      <webElementGuid>13677e18-0f36-475e-88da-9b8f3d7a43e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[1]/following::button[1]</value>
+      <webElementGuid>986b1593-dcb0-47f9-a837-cb06a991d720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar disini'])[1]/preceding::button[1]</value>
+      <webElementGuid>7ee2fbe3-37db-4ebd-b078-a1fa71793b8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='masuk'])[1]/preceding::button[1]</value>
+      <webElementGuid>19cea696-342c-4a4e-a443-7a582b443ef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lanjutkan']/parent::*</value>
+      <webElementGuid>727b591d-484d-4134-9baf-d49b968832e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>d79c0ad1-ae3b-46fe-a1a6-cb607c8ad3aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @id = 'submitRegister2' and (text() = 'Lanjutkan ' or . = 'Lanjutkan ')]</value>
+      <webElementGuid>4f19a57e-f628-4300-ae04-d7467e367439</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

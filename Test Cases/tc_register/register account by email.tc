@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>register account by email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26aae7ab-032a-408f-9ddd-84f0f87a064d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6eaa6058-6014-455a-9fdb-862d592358f9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d7c3aad8-600d-44df-9303-3efccc3d2a9a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eb3b76a1-492f-4409-8abe-a66537ac543f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Ditra Alfilia Mardhanti'</defaultValue>
+      <description></description>
+      <id>6eaa6058-6014-455a-9fdb-862d592358f9</id>
+      <masked>false</masked>
+      <name>fullName</name>
+   </variable>
+   <variable>
+      <defaultValue>'085642434654'</defaultValue>
+      <description></description>
+      <id>d7c3aad8-600d-44df-9303-3efccc3d2a9a</id>
+      <masked>false</masked>
+      <name>phoneNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'04425bCAokx1tewSA6VPvg=='</defaultValue>
+      <description></description>
+      <id>eb3b76a1-492f-4409-8abe-a66537ac543f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
